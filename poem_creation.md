@@ -4,7 +4,11 @@ Advait Ganapathy |
 Advait Ganapathy |
 Ahmed Elnaggar |
 Akshay Ratnawat |
+<<<<<<< HEAD
 Aleksandr Lykhin | Eugene Onegin by Aleksandr Pushkin
+=======
+Aleksandr Lykhin | Konek-Gorbunok
+>>>>>>> ed8e2aa1b6f679d1d0d43132a243cb5322327e38
 Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat |

@@ -57,7 +57,7 @@ Jonathan Kim |
 Jorge Arias |
 Joshua Foster |Live, laugh, love, cringe
 Joshua Kim |
-Kaihua Ding |
+Kaihua Ding | woo hoo hoo woo, pizza
 Kaining Hu |
 Ken Rata |
 Kristi Angel |
@@ -76,6 +76,7 @@ Manasi Phadnis |
 Mandy Chen |
 Manickam Umasuthan |
 Mark Lewis |
+Mark Mims | "I believe in myself" - Jack Handey, Deep Thoughts
 Martin Falk |
 Maryn Carlson |
 Mauricio Miranda |
@@ -90,7 +91,7 @@ Milica Medved |
 Minhui Chen |
 Mohammad Shaheryar Furqan |
 Namitha Shaji |
-Nasim Mirzajani |fake it till you make it
+Nasim Mirzajani |
 Nelson Ramos Ruballos |
 Nicolais Torres-Echeverry |
 Nikhil Shakkarwar |
@@ -127,9 +128,9 @@ Teodora Szasz | You are halfway there;
 Thomas Barry |
 Wei Liang |
 Wen Han Chiu |
-Xinran Lian |
+Xinran Lian | Big brother is watching you.
 Xinyou Ma |
-Yifan Gao |
+Yifan Gao | Ocean and Water
 Yiheng wu | hi man
 Yiming Zhong |
 Yu Xiao |

@@ -4,7 +4,7 @@ Advait Ganapathy |
 Advait Ganapathy |
 Ahmed Elnaggar |
 Akshay Ratnawat |
-Aleksandr Lykhin | Konek-Gorbunok
+Aleksandr Lykhin | Eugene Onegin by Aleksandr Pushkin
 Alexandra Lamtyugina |
 Alexandria Im |
 Anastasia Bernat |
